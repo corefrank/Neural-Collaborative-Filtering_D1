@@ -11,8 +11,8 @@ LSH, PCA, Optimal transport, etc.
 
 
 # Teammate
-Nan An
-Othman Hicheur
+Nan An;
+Othman Hicheur;
 Kanupriya Jain
 
 
