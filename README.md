@@ -10,7 +10,7 @@ LSH, PCA, Optimal transport, etc.
 
 
 
-#Teammate
+# Teammate
 Nan An
 Othman Hicheur
 Kanupriya Jain
