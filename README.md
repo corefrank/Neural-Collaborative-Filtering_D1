@@ -2,11 +2,11 @@
 - Implement at least MF with ALS or Gradient Descent
 - Implement one/several alternative method of your choice
 LSH, PCA, Optimal transport, etc.
-- Write a small report & present your work to the class 
-     Discuss hyperparameter tuning (e.g. how to set k)
-     Discuss how to incorporate genre (or other features)
-     Theoretical comparison vs. baseline
-    Experimental comparison vs. baseline
+- Write a small report & present your work to the class
+  - Discuss hyperparameter tuning (e.g. how to set k)
+  - Discuss how to incorporate genre (or other features)
+  - Theoretical comparison vs. baseline
+  - Experimental comparison vs. baseline
 
 
 
